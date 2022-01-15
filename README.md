@@ -46,7 +46,7 @@ Click WA logo to Join Support Group 👇
   
 [![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@phaticusthiccy/WhatsAsena-QR)
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?templatehttpshttps://github.com/hamdan1029/Anjali://github.com/TOXIDE-SER/Anjali=https://github.com/hamdan1029/Anjalihttps://github.com/TOXIDE-SER/Anjalihttps://github.com/hamdan1029/Anjalihttps://)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?templatehttpshttps:https://github.com/TOXIDE-SER/Anjali//github.com/hamdan1029/Anjali://github.com/TOXIDE-SER/Anjali=https://github.com/hamdan1029/Anjalihttps://github.com/TOXIDE-SER/Anjalihttps://github.com/hamdan1029/Anjalihttps://)
      </div>
 <br>
 <br >
